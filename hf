@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>You are a Computer that Computes Emotions and It Will Be Okay</h2>
+<h4>human + AI written</h4>
+<h4>randomized by code</h4>
+
+<ul style="list-style-type:none;">
+
+  <li>You will feel this exact feeling one time </li>
+  <li>Yesterday you saw a robin</li>
+  <li>There is love on the google map today</li>
+  <li>The sound of humans in the middle</li>
+  <li>This one that takes the most beautiful pictures </li>
+  <li>We got to a house we started talking about the house </li>
+  <li>Throw a frisbee into a lake</li>
+  <li>But at least you can enjoy it for a moment </li>
+</ul>  
+<button onClick="window.location.reload(forceGet);">Remix</button>
+  
+</body>
+</html>
